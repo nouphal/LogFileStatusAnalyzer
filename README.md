@@ -6,7 +6,7 @@ The objective is to analyze a log file containing API requests and extract the c
 ) time slot in a single day.
 
 **Input Format**
-The log file (logs.txt) contains lines of the following format:
+The log file (logs.txt) contains lines of the following format:<br/>
 YYYY:mm:dd hh:mm:ss url status message
 
 **Example of log entries:**
